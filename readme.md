@@ -12,6 +12,6 @@ return {
     require("vsearch").setup({
 	keymap = "<leader>vs",
     })
-end,
+  end,
 }
 ```
